@@ -9,6 +9,7 @@ View Detail:
 Referensi:
 - Orang Asing
 - Medium
+- Youtube
 - 
 ## Getting Started
 
