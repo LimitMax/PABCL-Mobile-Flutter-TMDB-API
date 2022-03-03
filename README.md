@@ -1,7 +1,15 @@
-# huraa
+# TMDB API Simple APP With Flutter
 
-A new Flutter project.
+View Depan:
+![Screenshot (687)](https://user-images.githubusercontent.com/38920294/156531415-b9001095-b740-4ef9-bf31-be06eb7168f6.png)
 
+View Detail:
+![Screenshot (688)](https://user-images.githubusercontent.com/38920294/156531452-34c6c66f-e9bf-48b5-9a99-80b73a05831e.png)
+
+Referensi:
+- Orang Asing
+- Medium
+- 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
